@@ -1,0 +1,1 @@
+{"spec": {"problemStatement": "Create a simple web page that displays 'Hello World'", "keyFeatures": ["static HTML page", "minimalist design"], "basicDataModel": {"html": {"title": "Hello World", "body": "Hello World"}}}}
